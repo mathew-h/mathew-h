@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! My name is Mat (yes, with one 't'), and I'm currently learning the basics of computer science via CS50, Harvard's "Introduction to Computer Science" course.
+### I'm a 4th year chemical engineering student at Northeastern University and I'm interested in machine learning for biochemical reaction systems.
 
 <!--
 **mathew-h/mathew-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
