@@ -1,4 +1,4 @@
-### Hello! My name is Mat (yes, with one 't'), and I'm currently working on some personal projects in Python to improve proficiency in the language.
+### Hello! My name is Mat (yes, with one 't'), and I'm currently working on some personal projects in Python to build my proficiency using the language.
 ### I'm a battery engineer and my degree is in Chemical Engineering, I'm looking to link programming, data science, and research together to bring value to industry.
 <!--
 **mathew-h/mathew-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
